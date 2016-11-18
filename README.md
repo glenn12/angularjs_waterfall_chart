@@ -5,4 +5,4 @@ AngularJS Chart Waterfall series test using <a href="http://www.jqwidgets.com/an
 
 Live demo:
 
-https://jsfiddle.net/2vgn6j3k/
+https://jsfiddle.net/2vgn6j3k/1/
